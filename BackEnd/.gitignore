@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StreamServiceApi/.vs/StreamServiceApi
+/StreamServiceApi/Application/bin/Debug/net8.0
+/StreamServiceApi/.vs/ProjectEvaluation
+/StreamServiceApi/Application/obj/Debug/net8.0
+/StreamServiceApi/Persistense/obj/Debug/net8.0
+/StreamServiceApi/Shared/obj/Debug/net8.0
+/StreamServiceApi/StreamServiceWebApi/bin/Debug/net8.0
+/StreamServiceApi/StreamServiceWebApi/obj/Debug/net8.0
+/StreamServiceApi/StreamServiceWebApi/obj
+/StreamServiceApi/Persistense/obj
+/StreamServiceApi/Identity/obj/Debug/net8.0
+/StreamServiceApi/Application/obj
+/StreamServiceApi/Domain/obj/Debug/net8.0
+/StreamServiceApi/Domain/obj
+/StreamServiceApi/Identity/obj
+/StreamServiceApi/Shared/obj
